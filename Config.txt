@@ -1,0 +1,5 @@
+App Name: Helloworld Java App
+Version: 1.0
+Author: Nilesh
+Environment: Docker + EC2
+Built with: eclipse-temurin:17
